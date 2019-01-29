@@ -1,4 +1,4 @@
-# KURIER Jobs
+# KURIER Jobs im Digi.Lab
 
 Willkommen im KURIER Jobs Projekt. Hier bekommst Du mehr Infos darüber, wie Du Dich für das KURIER Digi.Lab bewerben kannst! Hier noch ein paar Infos über uns: 
 
