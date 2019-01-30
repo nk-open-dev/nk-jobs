@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {HttpClient} from "@angular/common/http";
+import {HttpClient, HttpHeaders} from "@angular/common/http";
 import {environment} from '../environments/environment';
 import {Contact} from "./contact";
 
@@ -17,7 +17,12 @@ export class AppComponent implements OnInit {
     this.isDevelopment = !environment.production;
   }
   ngOnInit() {
-    this.http.get<Contact>(environment.apiUrl).subscribe(data => {
+    const options = {
+      headers: new HttpHeaders({
+        'X-Custom-App': 'nk-jobs'
+      })
+    };
+    this.http.get<Contact>(environment.apiUrl, options).subscribe(data => {
       this.contact = new Contact(data.email, data.name, data.subject);
     })
   }
