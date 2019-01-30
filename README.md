@@ -1,3 +1,3 @@
 # Heyho :-)
 
-Please check out the "main" branch.
+Please checkout or download the "main" branch.
