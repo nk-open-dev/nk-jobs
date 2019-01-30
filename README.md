@@ -6,11 +6,20 @@ Das Medienhaus Nordbayerischer Kurier publiziert hochwertigen Journalismus. Medi
 
 Wir freuen uns auf Dich! 
 
-## Development server
+## Preferences
+* Download and Install [NodeJS](https://nodejs.org)
+
+### install Angular Commandline Interface
+
+`npm install -g @angular/cli`
+
+more information: https://cli.angular.io/
+
+## Start Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Build
+## Build sources
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
