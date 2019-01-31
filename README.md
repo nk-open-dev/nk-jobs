@@ -2,9 +2,11 @@
 
 Willkommen im KURIER Jobs Projekt. Hier bekommst Du mehr Infos darüber, wie Du Dich für das KURIER Digi.Lab bewerben kannst! Hier noch ein paar Infos über uns: 
 
-Das Medienhaus Nordbayerischer Kurier publiziert hochwertigen Journalismus. Medien sind neben der gedruckten Tageszeitung Nordbayerischer Kurier das Onlineportal www.nordbayerischer-kurier.de, die dazugehörige mobile Webseite sowie weitere digitale Kanäle. Unser digitales Portfolio wächst stetig.  Wir sind ein junges digitales Team aus begeisterten Entwicklern, Marketing-Experten und Vertrieblern. Du hast Lust, uns bei den spannenden Aufgaben des digitalen Wandels zu begleiten, interessierst dich für aktuelle Webtechnologien? Dann schicke uns Deine Bewerbung an ... Das musst du mit Hilfe dieses Projekts herausfinden. Viel Spaß! 
+Das Medienhaus Nordbayerischer Kurier publiziert hochwertigen Journalismus. Medien sind neben der gedruckten Tageszeitung Nordbayerischer Kurier das Onlineportal www.nordbayerischer-kurier.de, die dazugehörige mobile Webseite sowie weitere digitale Kanäle. Unser digitales Portfolio wächst stetig.  Wir sind ein junges digitales Team aus begeisterten Entwicklern, Marketing-Experten und Vertrieblern. Wir entwickeln Websoftware und Webseiten für die gesamte Frankenpost Verlagsgruppe.
+  
+  Du hast Lust, uns bei den spannenden Aufgaben des digitalen Wandels zu begleiten, interessierst dich für aktuelle Webtechnologien? Dann schicke uns Deine Bewerbung an ... das musst du mit Hilfe dieses Projekts herausfinden. 
 
-Wir freuen uns auf Dich! 
+Viel Spaß! 
 
 ## Preferences
 * Download and Install [NodeJS](https://nodejs.org)
