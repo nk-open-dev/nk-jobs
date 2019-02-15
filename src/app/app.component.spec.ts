@@ -13,6 +13,6 @@ describe('AppComponent', () => {
   }));
 
   it('should deliver the correct email address in production environment', async(() =>  {
-    expect(prod.environment.apiUrl).toBe('http://nk-dev.de/contact');
+    expect(prod.environment.apiUrl).toBe('http://www.nk-dev.de/contact');
   }));
 });

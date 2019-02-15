@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://nk-dev.de/contact'
+  apiUrl: 'http://www.nk-dev.de/contact'
 };
